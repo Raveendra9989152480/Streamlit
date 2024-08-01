@@ -36,5 +36,4 @@ if st.checkbox('Show chart'):
     ax.set_title('Sample Line Chart')
     ax.set_xlabel('X-axis')
     ax.set_ylabel('Y-axis')
-    
     st.pyplot(fig)
